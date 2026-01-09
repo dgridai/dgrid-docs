@@ -46,13 +46,22 @@ export default defineConfig({
               { text: 'Business Model', link: '/Business-Model' }
             ]
           },
+         {
+            text: 'DGrid Premium',
+            items: [
+              { text: 'Program Overview', link: '/Program-Overview' },
+              { text: 'Exclusive Benefits', link: '/Exclusive-Benefits' },
+              { text: 'Purchase & Activation', link: '/Purchase-&-Activation' },
+              { text: 'Incentive Mechanism & Rewards', link: '/Incentive-Mechanism-&-Rewards' },
+              { text: 'Compliance & Regulatory', link: '/Compliance-and-Regulatory' },
+              { text: 'Legal Disclaimer', link: '/Legal-Disclaimer' }
+            ]
+          },
           {
             text: 'Appendix', 
             items: [
               { text: 'Roadmap', link: '/Roadmap' },
-              { text: 'Academic Research', link: 'Academic-Research' },
-              { text: 'Compliance & Regulatory', link: '/Compliance-and-Regulatory' },
-              { text: 'Legal Disclaimer', link: '/Legal-Disclaimer' }
+              { text: 'Academic Research', link: 'Academic-Research' }
             ]
           }
         ]
@@ -93,13 +102,22 @@ export default defineConfig({
               { text: '商業模式', link: '/zh-TW/Business-Model' }
             ]
           },
+         {
+            text: 'DGrid Premium', 
+            items: [
+              { text: '計畫概述', link: '/zh-TW/Program-Overview' },
+              { text: '專屬權益', link: '/zh-TW/Exclusive-Benefits' },
+              { text: '購買與激活', link: '/zh-TW/Purchase-&-Activation' },
+              { text: '激勵機制與獎勵', link: '/zh-TW/Incentive-Mechanism-&-Rewards' },
+              { text: '合規與監管', link: '/zh-TW/Compliance-and-Regulatory' },
+              { text: '法律免責聲明', link: '/zh-TW/Legal-Disclaimer' }
+            ]
+          },
           {
             text: '附錄', 
             items: [
               { text: '發展路線圖', link: '/zh-TW/Roadmap' },
-              { text: '學術研究', link: '/zh-TW/Academic-Research' },
-              { text: '合規與監管', link: '/zh-TW/Compliance-and-Regulatory' },
-              { text: '法律免責聲明', link: '/zh-TW/Legal-Disclaimer' }
+              { text: '學術研究', link: '/zh-TW/Academic-Research' }
             ]
           }
         ]
@@ -141,12 +159,21 @@ export default defineConfig({
             ]
           },
           {
+            text: 'DGrid Premium',
+            items: [
+              { text: '프로그램 개요', link: '/kr/Program-Overview' },
+              { text: '전용 혜택', link: '/kr/Exclusive-Benefits' },
+              { text: '구매 및 활성화', link: '/kr/Purchase-&-Activation' },
+              { text: '인센티브 메커니즘 및 보상', link: '/kr/Incentive-Mechanism-&-Rewards' },
+              { text: '준수 및 규제', link: '/kr/Compliance-and-Regulatory' },
+              { text: '법적 고지', link: '/kr/Legal-Disclaimer' }
+            ]
+          },
+          {
             text: '부록', 
             items: [
               { text: '발전 로드맵', link: '/kr/Roadmap' },
-              { text: '학술 연구', link: '/kr/Academic-Research' },
-              { text: '준수 및 규제', link: '/kr/Compliance-and-Regulatory' },
-              { text: '법적 고지', link: '/kr/Legal-Disclaimer' }
+              { text: '학술 연구', link: '/kr/Academic-Research' }
             ]
           }
         ]
