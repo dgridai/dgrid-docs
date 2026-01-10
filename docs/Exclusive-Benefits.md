@@ -1,16 +1,16 @@
-# DGrid Genesis Membership Exclusive Benefits
+# DGrid Genesis Premium Exclusive Benefits
 
 As early co-builders of the DGrid ecosystem, Genesis Members are entitled to comprehensive benefits covering economic rewards, resource access, product experience, and ecosystem co-construction. By deeply participating in network construction and governance, members can secure long-term and stable value returns. DGrid has allocated a dedicated reward pool from the total supply of \$DGAI tokens to reciprocate members’ core contributions to network governance, ecosystem expansion, and AI service promotion, laying a solid foundation for the stable operation and high-quality development of the decentralized AI inference network.
 
 In addition to the core \$DGAI token rewards, Genesis Members can also enjoy diverse additional values brought by ecosystem development, including priority access to new products, discounts on AI services, and exclusive co-branding exposure. These benefits fully reflect the recognition of members’ support for the ecosystem and jointly maintain the vitality and security of the DGrid ecosystem.
 
-The Genesis Membership Program opens the door for community members to deeply participate in the large-scale decentralized ecosystem of AI computing and inference services. Without requiring advanced technical capabilities or bearing high computing resource costs, anyone can easily tap into the decentralized AI economy and become a core part of the ecosystem’s development.
+The Genesis Premium Program opens the door for community members to deeply participate in the large-scale decentralized ecosystem of AI computing and inference services. Without requiring advanced technical capabilities or bearing high computing resource costs, anyone can easily tap into the decentralized AI economy and become a core part of the ecosystem’s development.
 
 ## Detailed Breakdown of Core Benefits
 
 ### 1. Sustained Ecosystem Rewards
 
-Holding the Genesis Membership status entitles members to sustained \$DGAI ecosystem contribution rewards, as a token of appreciation for their support and participation in the early-stage network construction. Members will also automatically unlock additional airdrop rewards from ecosystem partners, sharing the long-term development dividends of the DGrid decentralized AI ecosystem.
+Holding the Genesis Premium status entitles members to sustained \$DGAI ecosystem contribution rewards, as a token of appreciation for their support and participation in the early-stage network construction. Members will also automatically unlock additional airdrop rewards from ecosystem partners, sharing the long-term development dividends of the DGrid decentralized AI ecosystem.
 
 ### 2. Priority Access to High-Value AI Models & APIs
 

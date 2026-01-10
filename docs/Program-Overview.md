@@ -1,12 +1,12 @@
-# DGrid Genesis Membership Program Overview
+# DGrid Genesis Premium Program Overview
 
-## What is DGrid Genesis Membership?
+## What is DGrid Genesis Premium?
 
-DGrid Genesis Membership serves as the core credential of the DGrid decentralized AI ecosystem and a symbolic identity for early participants to deeply bind with the network. Upon subscribing to the Genesis Membership service, users will receive the Genesis Pass NFT as their exclusive identity credential. Unlike the benefits of regular memberships, holders of this NFT can not only directly access high-value AI resource usage rights, but also deeply participate in network development decision-making and share the dividends of ecological growth.
+DGrid Genesis Premium serves as the core credential of the DGrid decentralized AI ecosystem and a symbolic identity for early participants to deeply bind with the network. Upon subscribing to the Genesis Premium service, users will receive the Genesis Pass NFT as their exclusive identity credential. Unlike the benefits of regular Premiums, holders of this NFT can not only directly access high-value AI resource usage rights, but also deeply participate in network development decision-making and share the dividends of ecological growth.
 
-To maintain the long-term stable operation and ecological expansion of the network, Genesis Members only need to retain their membership status and actively participate in ecological construction to obtain stable economic returns. For long-term holders who support the ecosystem, there will be further opportunities to claim additional ecological rewards. This Genesis Membership Program features a specially designed low-threshold and equalized participation mechanism, enabling community members from diverse backgrounds to seize the early opportunities in the development of decentralized AI.
+To maintain the long-term stable operation and ecological expansion of the network, Genesis Members only need to retain their Premium status and actively participate in ecological construction to obtain stable economic returns. For long-term holders who support the ecosystem, there will be further opportunities to claim additional ecological rewards. This Genesis Premium Program features a specially designed low-threshold and equalized participation mechanism, enabling community members from diverse backgrounds to seize the early opportunities in the development of decentralized AI.
 
-## Why Join the Genesis Membership?
+## Why Join the Genesis Premium?
 
 At the critical stage of the rise of the decentralized AI economy, becoming a DGrid Genesis Member means transforming from a "spectator" to a "co-builder". While bringing diverse values to the ecosystem, you can achieve a win-win situation for both individuals and the network:
 

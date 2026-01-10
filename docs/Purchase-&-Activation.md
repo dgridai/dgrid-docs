@@ -1,6 +1,6 @@
-# DGrid Genesis Membership Purchase & Activation Guide
+# DGrid Genesis Premium Purchase & Activation Guide
 
-To enable more community members to participate conveniently, DGrid has simplified the Genesis Membership subscription process. Follow the steps below to complete your purchase and activate your exclusive benefits:
+To enable more community members to participate conveniently, DGrid has simplified the Genesis Premium subscription process. Follow the steps below to complete your purchase and activate your exclusive benefits:
 
 ### Step 1: Purchase the DGrid Genesis Pass
 
@@ -10,14 +10,14 @@ To enable more community members to participate conveniently, DGrid has simplifi
 4. Read and agree to the DGrid Genesis Pass Purchase Agreement.
 5. Enter your invitation code and finalize the purchase to successfully obtain the DGrid Genesis Pass (NFT credential).
 
-### Step 2: Activate Genesis Membership Benefits
+### Step 2: Activate Genesis Premium Benefits
 
-1. After holding the Genesis Pass NFT, log in to the DGrid Dashboard and locate the **"Activate Genesis Membership Benefits"** button.
-2. Follow the on-screen prompts to complete activation. You will then unlock all exclusive Genesis Membership benefits and immediately start earning dual rewards of \$DGAI & \$IOTX.
+1. After holding the Genesis Pass NFT, log in to the DGrid Dashboard and locate the **"Activate Genesis Premium Benefits"** button.
+2. Follow the on-screen prompts to complete activation. You will then unlock all exclusive Genesis Premium benefits and immediately start earning dual rewards of \$DGAI & \$IOTX.
 
 ### Step 3: Monitor Rewards & Benefit Usage
 
 1. Through the DGrid Dashboard, view the real-time accumulation of your \$DGAI and \$IOTX rewards.
 2. The Dashboard enables transparent management of your personal assets, including functions for reward withdrawal and benefit usage statistics, allowing you to track your benefit status at any time.
 
-> ​**Note**​: The DGrid Genesis Membership Program was officially launched at ​**00:00 UTC on January 1, 2026**​. We recommend completing the purchase and activation process in advance to ensure you can enjoy all benefits immediately.
+> ​**Note**​: The DGrid Genesis Premium Program was officially launched at ​**00:00 UTC on January 1, 2026**​. We recommend completing the purchase and activation process in advance to ensure you can enjoy all benefits immediately.
