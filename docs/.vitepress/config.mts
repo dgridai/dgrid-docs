@@ -42,8 +42,7 @@ export default defineConfig({
               { text: 'What is $DGAI?', link: '/What-is-$DGAI' },
               { text: 'Core Functions', link: '/Core-Functions' },
               { text: 'Circulation Mechanism', link: '/Circulation-Mechanism' },
-              { text: 'Token Distribution', link: '/Token-Distribution' },
-              { text: 'Business Model', link: '/Business-Model' }
+              { text: 'Token Distribution', link: '/Token-Distribution' }
             ]
           },
          {
@@ -98,8 +97,7 @@ export default defineConfig({
               { text: '什麼是 $DGAI?', link: '/zh-TW/What-is-$DGAI' },
               { text: '核心功能', link: '/zh-TW/Core-Functions' },
               { text: '流通機制', link: '/zh-TW/Circulation-Mechanism' },
-              { text: '代幣分配', link: '/zh-TW/Token-Distribution' },
-              { text: '商業模式', link: '/zh-TW/Business-Model' }
+              { text: '代幣分配', link: '/zh-TW/Token-Distribution' }
             ]
           },
          {
@@ -154,8 +152,7 @@ export default defineConfig({
               { text: '$DGAI 란 무엇인가?', link: '/kr/What-is-$DGAI' },
               { text: '핵심 기능', link: '/kr/Core-Functions' },
               { text: '순환 메커니즘', link: '/kr/Circulation-Mechanism' },
-              { text: '토큰 분배', link: '/kr/Token-Distribution' },
-              { text: '비즈니스 모델', link: '/kr/Business-Model' }
+              { text: '토큰 분배', link: '/kr/Token-Distribution' }
             ]
           },
           {
