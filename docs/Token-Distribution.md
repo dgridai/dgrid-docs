@@ -5,11 +5,11 @@
 The total supply of $DGAI is fixed at 1 billion tokens. Its distribution design aims to align incentive mechanisms among users, node operators, developers, and the broader ecosystem. Tokens enter circulation through structured channels, prioritizing long-term network growth over short-term speculation. The distribution of 1 billion $DGAI tokens is as follows:
 
 - **Nodes (50%)**
-- **Community (20%)**
+- **Community (15%)**
 - **Team Incentives (10%)**
 - **Investors (10%)**
-- **Airdrops (5%)**
-- **Initial Liquidity (5%)**
+- **Airdrops (7.5%)**
+- **Initial Liquidity (7.5%)**
 
 ## Positive Ecological Cycle
 
