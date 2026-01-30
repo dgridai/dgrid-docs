@@ -45,6 +45,14 @@ export default defineConfig({
               { text: 'Token Distribution', link: '/Token-Distribution' }
             ]
           },
+          {
+            text: 'Core Products', 
+            items: [
+              { text: 'AI Gateway', link: '/AI-Gateway' },
+              { text: 'Dori', link: '/Dori' },
+              { text: 'DGrid AI Arena', link: '/AI-Arena' }
+            ]
+          },
          {
             text: 'DGrid Premium',
             items: [
@@ -60,7 +68,7 @@ export default defineConfig({
             text: 'Appendix', 
             items: [
               { text: 'Roadmap', link: '/Roadmap' },
-              { text: 'Academic Research', link: 'Academic-Research' }
+              { text: 'Academic Research', link: '/Academic-Research' }
             ]
           }
         ]
@@ -98,6 +106,14 @@ export default defineConfig({
               { text: '核心功能', link: '/zh-TW/Core-Functions' },
               { text: '流通機制', link: '/zh-TW/Circulation-Mechanism' },
               { text: '代幣分配', link: '/zh-TW/Token-Distribution' }
+            ]
+          },
+          {
+            text: '核心產品', 
+            items: [
+              { text: 'AI Gateway', link: '/zh-TW/AI-Gateway' },
+              { text: 'Dori', link: '/zh-TW/Dori' },
+              { text: 'DGrid AI 競技場', link: '/zh-TW/AI-Arena' }
             ]
           },
          {
@@ -153,6 +169,14 @@ export default defineConfig({
               { text: '핵심 기능', link: '/kr/Core-Functions' },
               { text: '순환 메커니즘', link: '/kr/Circulation-Mechanism' },
               { text: '토큰 분배', link: '/kr/Token-Distribution' }
+            ]
+          },
+          {
+            text: '핵심 제품', 
+            items: [
+              { text: 'AI 게이트웨이', link: '/kr/AI-Gateway' },
+              { text: 'Dori', link: '/kr/Dori' },
+              { text: 'DGrid AI 아레나', link: '/kr/AI-Arena' }
             ]
           },
           {
