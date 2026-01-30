@@ -1,4 +1,4 @@
-# DGrid AI Arena
+# AI Arena
 
 **DGrid AI Arena** is a dedicated hub inside the DGrid platform where users help evaluate and improve DGrid’s AI models — and earn on‑chain rewards for their contributions.
 
