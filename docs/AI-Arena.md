@@ -121,7 +121,7 @@ There are two primary ways to earn points in DGrid AI Arena:
 2. **Referral Points**
 
 * Users can invite others to join DGrid AI Arena.
-* For ​**each valid referred user**​, the referrer earns ​**100 points**​.
+* For ​**each valid referred user**​, the referrer earns up to ​**100 points**​.
 * Referrals allow users to ​**scale rewards via community growth**​, not just their own activity.
 
 ### How Points Are Used
@@ -210,7 +210,7 @@ Return every day to:
 
 ### Step 4: Invite Friends (Referrals)
 
-Share DGrid AI Arena with your network using your referral mechanism in the DGrid UI. For each ​**valid referred user**​, you receive ​**100 points**​.
+Share DGrid AI Arena with your network using your referral mechanism in the DGrid UI. For each ​**valid referred user**​, you receive up to ​**100 points**​.
 
 Referrals help:
 
@@ -271,7 +271,7 @@ You can complete up to **5 Daily Missions** in AI Battle per day.
 
 #### How do I earn referral points?
 
-Invite others to join DGrid AI Arena using the referral mechanism in the DGrid interface.   For each ​**valid referred user**​, you receive ​**100 points**​.
+Invite others to join DGrid AI Arena using the referral mechanism in the DGrid interface.   For each ​**valid referred user**​, you receive up to ​**100 points**​.
 
 #### How are my points converted to USDT?
 
