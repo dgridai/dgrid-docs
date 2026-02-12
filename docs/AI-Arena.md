@@ -110,9 +110,9 @@ There are two primary ways to earn points in DGrid AI Arena:
 
 1. **Daily Missions in AI Battle**
 
-* Each mission awards ​**10–20 points**​:
-  * **20 points** if your choice matches the **community majority**
-  * **10 points** if your choice does **not** match the majority
+* Each mission awards ​**5–10 points**​:
+  * **10 points** if your choice matches the **community majority**
+  * **5 points** if your choice does **not** match the majority
 * There is ​**no “wrong” participation**​:
   * Even if you choose differently from the majority, you still earn points
   * Every vote is treated as valuable feedback
@@ -194,7 +194,7 @@ Once there:
 
 Click **“Start AI Battle”**. After mission begins: You’ll see a **question/prompt** and ​**two anonymous AI responses**​. Read both answers carefully and select the one you think is better. For each completed mission:
 
- * You earn ​**10–20 points**​, depending on alignment with community consensus.
+ * You earn ​**5–10 points**​, depending on alignment with community consensus.
  * You can complete **up to 5 missions** per day.
 
 ![](/0_vKnhpD6B3sz6Im8T.webp)
@@ -260,8 +260,8 @@ In this way, ​**every user choice becomes a vote for better AI**​.
 
 No. There is ​**no wrong participation**​.
 
-* If your choice matches the ​**community majority**​, you earn ​**20 points**​.
-* If your choice does **not** match the majority, you still earn ​**10 points**​.
+* If your choice matches the ​**community majority**​, you earn ​**10 points**​.
+* If your choice does **not** match the majority, you still earn ​**5 points**​.
 
 Every decision is considered valuable signal for model evaluation.
 
