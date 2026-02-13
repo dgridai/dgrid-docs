@@ -50,9 +50,15 @@ export default defineConfig({
             items: [
               { text: 'AI Gateway', link: '/AI-Gateway' },
               { text: 'Dori', link: '/Dori' },
-              { text: 'AI Arena', link: '/AI-Arena' }
+              {
+                text: 'AI Arena',
+                link: '/AI-Arena', 
+                items: [
+                  { text: 'Arena for Agent', link: '/Arena-for-Agent' }
+                ]
+              }
             ]
-          },
+         },
          {
             text: 'DGrid Premium',
             items: [
@@ -113,7 +119,13 @@ export default defineConfig({
             items: [
               { text: 'AI Gateway', link: '/zh-TW/AI-Gateway' },
               { text: 'Dori', link: '/zh-TW/Dori' },
-              { text: 'AI 競技場', link: '/zh-TW/AI-Arena' }
+              {
+                text: 'AI 競技場',
+                link: '/zh-TW/AI-Arena', 
+                items: [
+                  { text: 'Arena for Agent', link: '/zh-TW/Arena-for-Agent' }
+                ]
+              }
             ]
           },
          {
@@ -176,7 +188,13 @@ export default defineConfig({
             items: [
               { text: 'AI 게이트웨이', link: '/kr/AI-Gateway' },
               { text: 'Dori', link: '/kr/Dori' },
-              { text: 'AI 아레나', link: '/kr/AI-Arena' }
+              {
+                text: 'AI 아레나',
+                link: '/kr/AI-Arena', 
+                items: [
+                  { text: 'Arena for Agent', link: '/kr/Arena-for-Agent' }
+                ]
+              }
             ]
           },
           {
