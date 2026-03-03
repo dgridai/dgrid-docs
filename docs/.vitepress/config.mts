@@ -48,7 +48,13 @@ export default defineConfig({
           {
             text: 'Core Products', 
             items: [
-              { text: 'AI Gateway', link: '/AI-Gateway' },
+              {
+                text: 'AI Gateway',
+                link: '/AI-Gateway',
+                items: [
+                  { text: 'Integration Tutorials', link: '/AI-Gateway-Integrations' }
+                ]
+              },
               { text: 'Dori', link: '/Dori' },
               {
                 text: 'AI Arena',
@@ -117,7 +123,13 @@ export default defineConfig({
           {
             text: '核心產品', 
             items: [
-              { text: 'AI Gateway', link: '/zh-TW/AI-Gateway' },
+              {
+                text: 'AI Gateway',
+                link: '/zh-TW/AI-Gateway',
+                items: [
+                  { text: '整合教學', link: '/zh-TW/AI-Gateway-Integrations' }
+                ]
+              },
               { text: 'Dori', link: '/zh-TW/Dori' },
               {
                 text: 'AI 競技場',
@@ -186,7 +198,13 @@ export default defineConfig({
           {
             text: '핵심 제품', 
             items: [
-              { text: 'AI 게이트웨이', link: '/kr/AI-Gateway' },
+              {
+                text: 'AI 게이트웨이',
+                link: '/kr/AI-Gateway',
+                items: [
+                  { text: '통합 튜토리얼', link: '/kr/AI-Gateway-Integrations' }
+                ]
+              },
               { text: 'Dori', link: '/kr/Dori' },
               {
                 text: 'AI 아레나',
