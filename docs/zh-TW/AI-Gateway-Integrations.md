@@ -8,7 +8,7 @@
 2. 開啟 **Cursor Settings** → **Models**。
 3. 在 **API Keys** 區塊啟用 **Override OpenAI Base URL**。
 4. 將 Base URL 設為：
-   - `https://api.dgrid.ai/api/v1`
+   - `https://api.dgrid.ai/v1`
 5. 在 **OpenAI API Key** 貼上你的 `DGRID_API_KEY`。
 6. 模型名稱使用 DGrid 統一格式（例如：`openai/gpt-4o`）。
 

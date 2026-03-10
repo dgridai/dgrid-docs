@@ -23,7 +23,7 @@ DGrid AI 게이트웨이는 수백 개의 AI 모델 인터페이스를 통합합
 cURL을 사용하여 DGrid AI 게이트웨이 엔드포인트에 직접 HTTP POST 요청을 보낼 수 있습니다.
 
 ```Bash
-curl https://api.dgrid.ai/api/v1/chat/completions \
+curl https://api.dgrid.ai/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer $DGRID_API_KEY" \
   -d '{
@@ -60,7 +60,7 @@ import OpenAI from 'openai';
 
 // DGrid AI 게이트웨이 구성으로 OpenAI 클라이언트 초기화
 const openai = new OpenAI({
-  baseURL: 'https://api.dgrid.ai/api/v1', // DGrid AI 게이트웨이 엔드포인트를 가리킴
+  baseURL: 'https://api.dgrid.ai/v1', // DGrid AI 게이트웨이 엔드포인트를 가리킴
   apiKey: '<DGRID_API_KEY>', // 유효한 DGrid API 키로 교체
   defaultHeaders: {
     'HTTP-Referer': '<사이트 URL>', // 선택 사항: 애플리케이션의 사이트 URL
@@ -95,7 +95,7 @@ from openai import OpenAI
 
 # DGrid AI 게이트웨이 구성으로 OpenAI 클라이언트 초기화
 client = OpenAI(
-  base_url="https://api.dgrid.ai/api/v1", # DGrid AI 게이트웨이 엔드포인트를 가리킴
+  base_url="https://api.dgrid.ai/v1", # DGrid AI 게이트웨이 엔드포인트를 가리킴
   api_key="<DGRID_API_KEY>", # 유효한 DGrid API 키로 교체
 )
 completion = client.chat.completions.create(

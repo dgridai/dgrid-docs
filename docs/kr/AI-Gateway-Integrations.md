@@ -8,7 +8,7 @@
 2. **Cursor Settings** → **Models**로 이동합니다.
 3. **API Keys**에서 **Override OpenAI Base URL**을 활성화합니다.
 4. Base URL을 아래처럼 설정합니다:
-   - `https://api.dgrid.ai/api/v1`
+   - `https://api.dgrid.ai/v1`
 5. **OpenAI API Key**에 `DGRID_API_KEY`를 입력합니다.
 6. 모델 이름은 DGrid 형식으로 사용합니다 (예: `openai/gpt-4o`).
 

@@ -23,7 +23,7 @@ Before getting started, you need to:
 You can send a direct HTTP POST request to the DGrid AI Gateway endpoint using cURL.
 
 ```Bash
-curl https://api.dgrid.ai/api/v1/chat/completions \
+curl https://api.dgrid.ai/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer $DGRID_API_KEY" \
   -d '{
@@ -60,7 +60,7 @@ import OpenAI from 'openai';
 
 // Initialize the OpenAI client with DGrid AI Gateway configuration
 const openai = new OpenAI({
-  baseURL: 'https://api.dgrid.ai/api/v1', // Point to DGrid AI Gateway endpoint
+  baseURL: 'https://api.dgrid.ai/v1', // Point to DGrid AI Gateway endpoint
   apiKey: '<DGRID_API_KEY>', // Replace with your valid DGrid API key
   defaultHeaders: {
     'HTTP-Referer': '<YOUR_SITE_URL>', // Optional: Your application's site URL
@@ -95,7 +95,7 @@ from openai import OpenAI
 
 # Initialize the OpenAI client with DGrid AI Gateway configuration
 client = OpenAI(
-  base_url="https://api.dgrid.ai/api/v1", # Point to DGrid AI Gateway endpoint
+  base_url="https://api.dgrid.ai/v1", # Point to DGrid AI Gateway endpoint
   api_key="<DGRID_API_KEY>", # Replace with your valid DGrid API key
 )
 completion = client.chat.completions.create(

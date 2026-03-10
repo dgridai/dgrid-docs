@@ -8,7 +8,7 @@ This page collects practical integration tutorials for using **DGrid AI Gateway*
 2. Open **Cursor Settings** → **Models**.
 3. Under **API Keys**, enable **Override OpenAI Base URL**.
 4. Set the base URL to:
-   - `https://api.dgrid.ai/api/v1`
+   - `https://api.dgrid.ai/v1`
 5. Paste your `DGRID_API_KEY` into **OpenAI API Key**.
 6. Pick any supported model name using the DGrid format (for example: `openai/gpt-4o`).
 
