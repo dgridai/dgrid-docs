@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Official Website
-      link: 'http://dgrid.ai/' 
+      link: 'https://dgrid.ai/' 
     - theme: alt
       text: What is DGrid AI?
       link: What-we-do
@@ -28,12 +28,12 @@ features:
   - title: Dori
     details: Your natural-language AI advisor. Dori recommends the optimal model based on capability, price, and performance, processing thousands of requests daily as the smart gateway to DGrid's model ecosystem.
     link: '/Dori'
-  - title: Genosis Premium
+  - title: Genesis Premium
     details: The core credential of the DGrid decentralized AI ecosystem and a symbolic identity for early participants, offers subscribers an exclusive Genesis Pass NFT with high-value AI resource access, governance rights and dividend sharing.
     link: '/Program-Overview'
   - title: LLM & Agent Free Marketplace
     details: Allows model providers and developers to independently list, price, and earn revenue directly, with tokenization support for high-quality models to capture long-term value. 
     link: 'https://dgrid.ai/models'
   - title: $DGAI Token
-    details: The native utility token of the DGrid.AI ecosystem, serving as the backbone of value exchange, incentive alignment, and network governance in our decentralized AI inference network. 
+    details: The native utility token of the DGrid AI ecosystem, serving as the backbone of value exchange, incentive alignment, and network governance in our decentralized AI inference network. 
     link: '/What-is-$DGAI'

@@ -1,10 +1,10 @@
 # DGrid's Solution: Core Architecture and Key Modules
 
 ::: info
-***DGrid.AI = Decentralized Routing & Verification Network + LLM & Agent Free Market + AI DAO Governance System***
+***DGrid AI = Decentralized Routing & Verification Network + LLM & Agent Free Market + AI DAO Governance System***
 :::
 
-DGrid.AI addresses the critical gaps between Web3 AI and centralized AI through an interconnected ecosystem composed of nodes, protocols, and decentralized infrastructure.
+DGrid AI addresses the critical gaps between Web3 AI and centralized AI through an interconnected ecosystem composed of nodes, protocols, and decentralized infrastructure.
 
 By integrating standardized AI RPC interfaces, distributed inference nodes, intelligent routing, on-chain settlement, and secure storage, we have built a trustless, scalable, and user-centric LLM and Agent service network—enabling AI to become a native capability of blockchain applications. At its core, DGrid’s solution redefines decentralized AI inference through three foundational components: distributed nodes for model execution with result trustworthiness guaranteed by **Proof of Quality (PoQ)**, standardized protocols for universal access, and on-chain mechanisms for full transparency.
 
@@ -51,7 +51,7 @@ DGridRPC resolves the "interface fragmentation" issue in Web3 AI, making LLM and
 
 ## 7. Security Mechanisms
 
-DGrid.AI has established a comprehensive security framework to ensure trustlessness in the decentralized network, combining technical safeguards with on-chain transparency:
+DGrid AI has established a comprehensive security framework to ensure trustlessness in the decentralized network, combining technical safeguards with on-chain transparency:
 
 ### Trusted Inference Environment
 

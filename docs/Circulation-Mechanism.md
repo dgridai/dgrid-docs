@@ -52,4 +52,4 @@ Recipients include:
 | Governance rewards for voting participants | Network fees (gas, AI DA Layer archiving) |
 | Initial distribution (e.g., public sale, airdrops) | Confiscated tokens (burned) |
 
-This mechanism ensures $DGAI maintains utility as both a medium of exchange and a governance tool, fostering a self-sustaining ecosystem where value is proportional to network participation. By linking payments to contributions and enforcing accountability through staking mechanisms, the circulation of $DGAI reinforces the decentralization and resilience of DGrid.AI.
+This mechanism ensures $DGAI maintains utility as both a medium of exchange and a governance tool, fostering a self-sustaining ecosystem where value is proportional to network participation. By linking payments to contributions and enforcing accountability through staking mechanisms, the circulation of $DGAI reinforces the decentralization and resilience of DGrid AI.

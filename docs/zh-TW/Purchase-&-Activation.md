@@ -4,7 +4,7 @@
 
 ### 步驟 1：購買 DGrid 創世通行證
 
-1. 訪問官方鑄造頁面：打開瀏覽器，進入[創世通行證購買頁面](https://https://premium.dgrid.ai/dgridpass?code=LXX9BB)。
+1. 訪問官方鑄造頁面：打開瀏覽器，進入[創世通行證購買頁面](https://premium.dgrid.ai/dgridpass?code=LXX9BB)。
 2. 連接錢包：點擊頁面「連接錢包」按鈕，選擇支援 BNB 智能鏈的錢包（如 MetaMask、Token Pocket、Binance Wallet 和 OKX Wallet等），完成錢包連接並授權交易許可。
 3. 選擇欲購買的創世通行證數量，確認訂單資訊無誤後，使用 USDT 支付。
 4. 閱讀並同意購買 DGrid 創世通行證協議。

@@ -1,10 +1,10 @@
 # The Importance of Node Operators to Decentralized Artificial Intelligence
 
-Node Operators are the cornerstone of DGrid.ai’s mission to democratize AI infrastructure. Their participation delivers three critical advantages.
+Node Operators are the cornerstone of DGrid AI’s mission to democratize AI infrastructure. Their participation delivers three critical advantages.
 
 ## Eliminating Centralized Control
 
-By decentralizing node ownership across a global community, DGrid.ai resists censorship, corporate monopolization, or manipulation by any single entity. Unlike centralized AI platforms—where a sole provider controls access and moderation—no entity can unilaterally restrict, modify, or censor inference results, aligning with the ethos of Web3 neutrality.
+By decentralizing node ownership across a global community, DGrid AI resists censorship, corporate monopolization, or manipulation by any single entity. Unlike centralized AI platforms—where a sole provider controls access and moderation—no entity can unilaterally restrict, modify, or censor inference results, aligning with the ethos of Web3 neutrality.
 
 ## Enhancing Network Resilience
 
@@ -22,6 +22,6 @@ Operators’ contributions extend beyond computational power—they shape the ne
 - **Incentive Alignment**: $DGAI rewards high performance (low latency, high availability), incentivizing operators to invest in node quality improvements that directly benefit users.
 - **Service Diversity**: Operators can independently choose the models and Agents to host, fostering a diverse ecosystem of LLMs and Agents (ranging from open-source to specialized) to meet the varied needs of Web3 application scenarios.
 
-In summary, DGrid.ai’s node operator ecosystem ensures specialized roles work in synergy—DGrid Nodes execute inference, the network coordinates and verifies, and operators uphold decentralization. Together, they transform AI from a centralized service into a community-governed public utility accessible to all.
+In summary, DGrid AI’s node operator ecosystem ensures specialized roles work in synergy—DGrid Nodes execute inference, the network coordinates and verifies, and operators uphold decentralization. Together, they transform AI from a centralized service into a community-governed public utility accessible to all.
 
 

@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as t,ag as o}from"./chunks/framework.S-Qvb3wi.js";const p=JSON.parse('{"title":"Dori Find Models","description":"","frontmatter":{},"headers":[],"relativePath":"Dori.md","filePath":"Dori.md"}'),r={name:"Dori.md"};function n(l,e,s,d,u,c){return t(),i("div",null,e[0]||(e[0]=[o("",44)]))}const g=a(r,[["render",n]]);export{p as __pageData,g as default};

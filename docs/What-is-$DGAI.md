@@ -1,6 +1,6 @@
 # What is $DGAI?
 
-**$DGAI** is the native utility token of the DGrid.AI ecosystem, serving as the backbone of value exchange, incentive alignment, and network governance in our decentralized AI inference network. Designed to operate seamlessly within Web3 infrastructure, it enables trustless interactions between users, node operators, and developers—eliminating reliance on intermediaries.
+**$DGAI** is the native utility token of the DGrid AI ecosystem, serving as the backbone of value exchange, incentive alignment, and network governance in our decentralized AI inference network. Designed to operate seamlessly within Web3 infrastructure, it enables trustless interactions between users, node operators, and developers—eliminating reliance on intermediaries.
 
 ## Technical Specifications
 

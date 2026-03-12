@@ -1,6 +1,6 @@
 # The Core Functions of $DGAI: The Four-Dimensional Engine
 
-As the native token of the network, $DGAI undertakes four core functions—staking, payment, incentives, and governance—constructing a positive ecological cycle and driving every key interaction within the DGrid.AI ecosystem.
+As the native token of the network, $DGAI undertakes four core functions—staking, payment, incentives, and governance—constructing a positive ecological cycle and driving every key interaction within the DGrid AI ecosystem.
 
 ## Staking and Access
 
