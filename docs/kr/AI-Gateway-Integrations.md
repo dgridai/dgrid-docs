@@ -22,6 +22,9 @@
 
 ## 블로그 통합 튜토리얼 모음
 
+- **AI as Workspace (AIaW)**: [Step-by-Step Guide: Configure DGrid RPC in AI as Workspace (AIaW)](https://blog.dgrid.ai/posts/2026-03-10/)
+- **Chatbox**: [Step-by-Step Guide: Configure DGrid RPC in Chatbox](https://blog.dgrid.ai/posts/2026-03-09/)
+- **Claude Code**: [Use Claude Code with DGrid](https://blog.dgrid.ai/posts/2026-03-12/)
 - **Open WebUI**: [Using DGrid RPC with Open WebUI: A Comprehensive Guide](https://blog.dgrid.ai/posts/2026-01-22_2/)
 - **LibreChat**: [Using DGrid with LibreChat: A Step-by-Step Guide](https://blog.dgrid.ai/posts/2026-01-28/)
 - **AnythingLLM**: [Tutorial: Using DGrid RPC API with AnythingLLM](https://blog.dgrid.ai/posts/2026-01-30/)

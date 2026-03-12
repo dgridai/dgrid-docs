@@ -22,11 +22,12 @@ Full tutorial: [How to Configure and Use DGrid RPC API in Cursor](https://blog.d
 
 ## Blog integration tutorials (collected)
 
+- **AI as Workspace (AIaW)**: [Step-by-Step Guide: Configure DGrid RPC in AI as Workspace (AIaW)](https://blog.dgrid.ai/posts/2026-03-10/)
+- **Chatbox**: [Step-by-Step Guide: Configure DGrid RPC in Chatbox](https://blog.dgrid.ai/posts/2026-03-09/)
+- **Claude Code**: [Use Claude Code with DGrid](https://blog.dgrid.ai/posts/2026-03-12/)
 - **Open WebUI**: [Using DGrid RPC with Open WebUI: A Comprehensive Guide](https://blog.dgrid.ai/posts/2026-01-22_2/)
 - **LibreChat**: [Using DGrid with LibreChat: A Step-by-Step Guide](https://blog.dgrid.ai/posts/2026-01-28/)
 - **AnythingLLM**: [Tutorial: Using DGrid RPC API with AnythingLLM](https://blog.dgrid.ai/posts/2026-01-30/)
 - **Openclaw (agent platform)**: [Supercharging Openclaw with DGrid: The Ultimate AI Agent Setup](https://blog.dgrid.ai/posts/2026-02-02/)
 - **LobeChat**: [Configuring and Utilizing DGrid RPC Service in LobeChat: A Full Guide](https://blog.dgrid.ai/posts/2026-02-09/)
 - **OpenClaw (no-code)**: [Step-by-Step Guide: OpenClaw Installation & DGrid AI RPC Service Setup (No Code Required)](https://blog.dgrid.ai/posts/2026-02-27/)
-
-
