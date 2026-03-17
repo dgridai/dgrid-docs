@@ -20,6 +20,21 @@
 
 - 請參考：[AI Gateway 快速入門](/zh-TW/AI-Gateway#快速入門)
 
+## OpenClaw
+
+你可以在 OpenClaw 中透過 **DGrid AI Gateway** 的 OpenAI 相容端點完成模型連線設定。
+
+1. 開啟 OpenClaw 的模型或 provider 設定頁面。
+2. 將 API Base URL 設為 `https://api.dgrid.ai/v1`。
+3. 在 API Key 欄位填入 `DGRID_API_KEY`。
+4. 選擇一個 DGrid 支援的模型 ID。
+5. 儲存設定後，送出一個測試請求確認連線正常。
+
+<video controls preload="metadata" style="width: 100%; border-radius: 12px; margin-top: 12px;">
+  <source src="/dgrid-openclaw-demo.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## Blog 整合教學彙整
 
 - **AI as Workspace (AIaW)**：[Step-by-Step Guide: Configure DGrid RPC in AI as Workspace (AIaW)](https://blog.dgrid.ai/posts/2026-03-10/)

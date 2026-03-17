@@ -20,6 +20,21 @@
 
 - 참고: [AI 게이트웨이 빠른 시작](/kr/AI-Gateway#%EB%B9%A0%EB%A5%B8-%EC%8B%9C%EC%9E%91)
 
+## OpenClaw
+
+OpenClaw에서도 **DGrid AI 게이트웨이**의 OpenAI 호환 엔드포인트를 사용해 쉽게 연결할 수 있습니다.
+
+1. OpenClaw의 모델 또는 provider 설정 화면을 엽니다.
+2. API Base URL을 `https://api.dgrid.ai/v1`로 설정합니다.
+3. API Key 항목에 `DGRID_API_KEY`를 입력합니다.
+4. DGrid에서 지원하는 모델 ID를 선택합니다.
+5. 설정을 저장한 뒤 테스트 요청으로 정상 동작을 확인합니다.
+
+<video controls preload="metadata" style="width: 100%; border-radius: 12px; margin-top: 12px;">
+  <source src="/dgrid-openclaw-demo.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## 블로그 통합 튜토리얼 모음
 
 - **AI as Workspace (AIaW)**: [Step-by-Step Guide: Configure DGrid RPC in AI as Workspace (AIaW)](https://blog.dgrid.ai/posts/2026-03-10/)

@@ -20,6 +20,21 @@ Full tutorial: [How to Configure and Use DGrid RPC API in Cursor](https://blog.d
 
 - See: [AI Gateway Quickstart](/AI-Gateway#quickstart)
 
+## OpenClaw
+
+You can configure OpenClaw to route requests through **DGrid AI Gateway** using the OpenAI-compatible endpoint.
+
+1. Open your OpenClaw model/provider settings.
+2. Set the API base URL to `https://api.dgrid.ai/v1`.
+3. Paste your `DGRID_API_KEY` into the API key field.
+4. Select a supported DGrid model ID.
+5. Save the configuration and run a quick test request.
+
+<video controls preload="metadata" style="width: 100%; border-radius: 12px; margin-top: 12px;">
+  <source src="/dgrid-openclaw-demo.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## Blog integration tutorials (collected)
 
 - **AI as Workspace (AIaW)**: [Step-by-Step Guide: Configure DGrid RPC in AI as Workspace (AIaW)](https://blog.dgrid.ai/posts/2026-03-10/)
