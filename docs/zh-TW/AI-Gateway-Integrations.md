@@ -14,7 +14,7 @@
 
 ![Cursor settings example](/2_SJd0fdj09dfjKLDFk.png)
 
-完整教學（Blog）：[How to Configure and Use DGrid RPC API in Cursor](https://blog.dgrid.ai/posts/2026-02-18/)
+完整教學（Blog）：[How to Configure and Use DGrid AI Gateway in Cursor](https://blog.dgrid.ai/posts/2026-02-18/)
 
 ## OpenAI SDK（Node.js / Python）
 
@@ -37,12 +37,12 @@
 
 ## Blog 整合教學彙整
 
-- **AI as Workspace (AIaW)**：[Step-by-Step Guide: Configure DGrid RPC in AI as Workspace (AIaW)](https://blog.dgrid.ai/posts/2026-03-10/)
-- **Chatbox**：[Step-by-Step Guide: Configure DGrid RPC in Chatbox](https://blog.dgrid.ai/posts/2026-03-09/)
+- **AI as Workspace (AIaW)**：[Step-by-Step Guide: Configure DGrid AI Gateway in AI as Workspace (AIaW)](https://blog.dgrid.ai/posts/2026-03-10/)
+- **Chatbox**：[Step-by-Step Guide: Configure DGrid AI Gateway in Chatbox](https://blog.dgrid.ai/posts/2026-03-09/)
 - **Claude Code**：[Use Claude Code with DGrid](https://blog.dgrid.ai/posts/2026-03-12/)
-- **Open WebUI**：[Using DGrid RPC with Open WebUI: A Comprehensive Guide](https://blog.dgrid.ai/posts/2026-01-22_2/)
+- **Open WebUI**：[Using DGrid AI Gateway with Open WebUI: A Comprehensive Guide](https://blog.dgrid.ai/posts/2026-01-22_2/)
 - **LibreChat**：[Using DGrid with LibreChat: A Step-by-Step Guide](https://blog.dgrid.ai/posts/2026-01-28/)
-- **AnythingLLM**：[Tutorial: Using DGrid RPC API with AnythingLLM](https://blog.dgrid.ai/posts/2026-01-30/)
+- **AnythingLLM**：[Tutorial: Using DGrid AI Gateway with AnythingLLM](https://blog.dgrid.ai/posts/2026-01-30/)
 - **Openclaw（Agent 平台）**：[Supercharging Openclaw with DGrid: The Ultimate AI Agent Setup](https://blog.dgrid.ai/posts/2026-02-02/)
-- **LobeChat**：[Configuring and Utilizing DGrid RPC Service in LobeChat: A Full Guide](https://blog.dgrid.ai/posts/2026-02-09/)
-- **OpenClaw（免寫程式）**：[Step-by-Step Guide: OpenClaw Installation & DGrid AI RPC Service Setup (No Code Required)](https://blog.dgrid.ai/posts/2026-02-27/)
+- **LobeChat**：[Configuring and Utilizing DGrid AI Gateway in LobeChat: A Full Guide](https://blog.dgrid.ai/posts/2026-02-09/)
+- **OpenClaw（免寫程式）**：[Step-by-Step Guide: OpenClaw Installation & DGrid AI Gateway Setup (No Code Required)](https://blog.dgrid.ai/posts/2026-02-27/)

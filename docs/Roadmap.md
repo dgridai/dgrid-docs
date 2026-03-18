@@ -3,7 +3,7 @@
 ## 2025 Q1-Q2: Infrastructure Construction Phase
 
 - Design of network architecture and economic model
-- Development of DGridRPC
+- Development of DGrid AI Gateway
 - Design and implementation of the PoS Quality Proof algorithm
 - Development of premium presale module
 
@@ -15,10 +15,10 @@
 
 ## 2026 Q1-Q2: Mainnet Launch & Expansion Phase
 
-- Release of DGrid RPC and integration of enterprise-grade mainstream models
+- Release of DGrid AI Gateway and integration of enterprise-grade mainstream models
 - Launch of premium rewards and incentive pool
 - Launch of AI Arena
-- Integration of x402 Protocol, multi-chain payment integration, and DGrid RPC access to multi-chain ecosystems
+- Integration of x402 Protocol, multi-chain payment integration, and DGrid AI Gateway access to multi-chain ecosystems
 - Introduction of DGrid ecosystem projects to drive the network into a period of scalable growth
 
 ## 2026 Q3-Q4: Governance Improvement & Ecosystem Expansion Phase

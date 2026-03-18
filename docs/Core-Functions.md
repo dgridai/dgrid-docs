@@ -25,7 +25,7 @@ $DGAI is a governance token; token holders have the right to vote on key matters
 
 - Adjusting the fee structure (e.g., base CU pricing, latency penalties).
 - Adding new Large Language Models (LLMs) to the whitelist for network support.
-- Upgrading core protocols (e.g., DGridRPC) or settlement rules.
+- Upgrading core protocols (e.g., DGrid AI Gateway) or settlement rules.
 - Allocating treasury funds to promote ecosystem growth (e.g., developer grants, security audits).
 
 Voting power is proportional to staked $DGAI, ensuring decisions align with the interests of active network participants.
