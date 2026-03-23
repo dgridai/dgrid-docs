@@ -29,7 +29,7 @@ features:
     details: Your natural-language AI advisor. Dori recommends the optimal model based on capability, price, and performance, processing thousands of requests daily as the smart gateway to DGrid's model ecosystem.
     link: '/Dori'
   - title: Genesis Premium
-    details: The core credential of the DGrid decentralized AI ecosystem and a symbolic identity for early participants, offers subscribers an exclusive Genesis Pass NFT with high-value AI resource access, governance rights and dividend sharing.
+    details: The core credential of the DGrid decentralized AI ecosystem and a symbolic identity for early participants, offering subscribers an exclusive Genesis Pass NFT with high-value AI resource access, governance rights, and dividend sharing.
     link: '/Program-Overview'
   - title: LLM & Agent Free Marketplace
     details: Allows model providers and developers to independently list, price, and earn revenue directly, with tokenization support for high-quality models to capture long-term value. 

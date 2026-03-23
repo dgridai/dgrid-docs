@@ -29,7 +29,7 @@ Dori starts from your real-world needs, captured in free-form text. For example:
 * “We’re building a code assistant focusing on Python and TypeScript; strong reasoning and large-context understanding are important.”
 * “We want a model optimized for long-document RAG, with stable performance on 10k+ token contexts.”
 
-You do **not** need to know exact model names, providers, or benchmark acronyms.   Dori interprets your description and translates it into technical selection criteria.
+You do **not** need to know exact model names, providers, or benchmark acronyms. Dori interprets your description and translates it into technical selection criteria.
 
 ### 2. Intelligent Search Across the LLM Marketplace
 

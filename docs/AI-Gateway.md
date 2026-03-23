@@ -6,7 +6,7 @@ DGrid AI Gateway provides a single, unified API to access 200+ leading AI models
 
 DGrid AI Gateway unifies the interfaces of hundreds of AI models. You don't need to handle compatibility adaptations for different models in your code—with a single API endpoint and a standardized API request format, you can freely switch and access all the hundreds of models provided by DGrid.
 
-> Looking for tool-specific guides (Openclaw /Cursor / SDK / etc.)? See [Integration Tutorials](/AI-Gateway-Integrations).
+> Looking for tool-specific guides (OpenClaw / Cursor / SDK / etc.)? See [Integration Tutorials](/AI-Gateway-Integrations).
 
 > The DGrid official SDK is currently under active development—stay tuned for its release. Below are the available temporary request methods to interact with DGrid AI Gateway.
 

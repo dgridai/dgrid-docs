@@ -69,7 +69,7 @@ DGrid AI has established a comprehensive security framework to ensure trustlessn
 By integrating decentralized execution, intelligent coordination, secure inference, and transparent settlement, DGrid builds core advantages that distinguish it from traditional centralized AI and existing Web3 AI solutions—redefining the next generation of AI infrastructure:
 
 - **End-to-End Trustworthiness**: Based on PoQ quality proofs and on-chain evidence storage, it achieves verifiable and auditable inference processes and results, solving the "black box" problem.
-- **Seamless Integration Experience**: A single DGrid AI Gateway interface is compatible with thousands of models and Agents, significantly reducing developer integration and migration costs.
+- **Seamless Integration Experience**: A single DGrid AI Gateway API is compatible with thousands of models and Agents, significantly reducing developer integration and migration costs.
 - **Ecosystem Fairness & Win-Win Collaboration**: The open LLM & Agent Free Market and merit-based incentive mechanism ensure value alignment among creators, builders, and users.
 - **Elasticity & Resilience**: The distributed node network eliminates single points of failure, and geographic redundancy guarantees 24/7 service availability, resisting regional outages and regulatory risks.
 - **Community-Driven Autonomous Governance**: AI DAO drives network evolution; $DGAI holders lead key decisions, and AI Agents can participate in automated governance on behalf of users, ensuring ecosystem development aligns with community interests.

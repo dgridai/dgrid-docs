@@ -5,7 +5,7 @@ DGrid AI Gateway 提供單一、整合式的 API，可存取 200 多種頂級 AI
 
 DGrid AI Gateway 整合了數百種 AI 模型的介面。您無需在程式碼中處理不同模型的相容性調適——透過單一 API 端點與標準化的 API 請求格式，即可自由切換並存取 DGrid 提供的數百種模型。
 
-> 想看工具整合教學（Openclaw / Cursor / SDK 等）？請到 [整合教學](/zh-TW/AI-Gateway-Integrations)。
+> 想看工具整合教學（OpenClaw / Cursor / SDK 等）？請到 [整合教學](/zh-TW/AI-Gateway-Integrations)。
 
 > DGrid 官方 SDK 目前正積極開發中，敬請期待其正式發布。以下是可用的臨時請求方法，用於與 DGrid AI Gateway 互動。
 
@@ -120,4 +120,3 @@ print(completion.choices[0].message.content)
 1. ​**選擇性表頭**​：`HTTP-Referer` 與 `X-Title` 表頭為選擇性填寫，但填寫後有助於 DGrid 更好地識別您的應用程式，並提供更優化的服務支援。
 2. ​**模型命名格式**​：model 參數採用 `[供應商]/[模型名稱]` 格式（例如 `openai/gpt-4o`），所有 DGrid 支援的模型均採用此統一格式，便於切換使用。
 3. ​**SDK 開發更新**​：DGrid 官方 SDK 仍在開發中，未來將提供更多原生功能與優化效能 —— 敬請關注 DGrid 官方文件更新，以取得發布資訊。
-
