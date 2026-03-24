@@ -15,7 +15,7 @@ DGrid AI 게이트웨이는 수백 개의 AI 모델 인터페이스를 통합합
 시작하기 전에 다음 작업을 완료해야 합니다:
 
 1. 유효한 `DGRID_API_KEY`를 획득합니다 ([가이드](https://blog.dgrid.ai/posts/2026-01-04/)).
-2. 개발 환경에서 `https://api.dgrid.ai`에 접근할 수 있는 네트워크 권한이 있는지 확인합니다.
+2. 개발 환경에서 `https://api.dgrid.ai/v1`에 접근할 수 있는 네트워크 권한이 있는지 확인합니다.
 3. SDK 사용 시, 프로젝트에 해당 OpenAI SDK 패키지를 설치합니다.
 
 ### cURL을 통한 직접 API 요청

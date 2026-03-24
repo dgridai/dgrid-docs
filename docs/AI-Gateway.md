@@ -15,7 +15,7 @@ DGrid AI Gateway unifies the interfaces of hundreds of AI models. You don't need
 Before getting started, you need to:
 
 1. Obtain a valid `DGRID_API_KEY` ([Guide](https://blog.dgrid.ai/posts/2026-01-04/)).
-2. Ensure your development environment has network access to `https://api.dgrid.ai`.
+2. Ensure your development environment has network access to `https://api.dgrid.ai/v1`.
 3. For SDK usage, install the corresponding OpenAI SDK package in your project.
 
 ### Direct API Request via cURL
