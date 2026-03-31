@@ -47,3 +47,4 @@ You can configure OpenClaw to route requests through **DGrid AI Gateway** using 
 - **Open WebUI**: [Using DGrid AI Gateway with Open WebUI: A Comprehensive Guide](https://blog.dgrid.ai/posts/2026-01-22_2/)
 - **OpenClaw (agent platform)**: [Supercharging OpenClaw with DGrid: The Ultimate AI Agent Setup](https://blog.dgrid.ai/posts/2026-02-02/)
 - **OpenClaw (no-code)**: [Step-by-Step Guide: OpenClaw Installation & DGrid AI Gateway Setup (No Code Required)](https://blog.dgrid.ai/posts/2026-02-27/)
+- **Vercel AI SDK**: [How to Use DGrid AI Gateway with the Vercel AI SDK](https://blog.dgrid.ai/posts/2026-03-26/)

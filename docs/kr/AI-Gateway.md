@@ -8,6 +8,8 @@ DGrid AI 게이트웨이는 수백 개의 AI 모델 인터페이스를 통합합
 
 > 도구별 통합 가이드(OpenClaw / Cursor / SDK 등)가 필요하신가요? [통합 튜토리얼](/kr/AI-Gateway-Integrations)을 참고하세요.
 
+> 엔드포인트 수준의 API 레퍼런스가 필요하신가요? [Model API](/kr/Model-API)를 참고하세요.
+
 > DGrid 공식 SDK는 현재 적극적으로 개발 중이며, 출시를 기다려 주십시오. 아래는 DGrid AI 게이트웨이와 상호작용하기 위한 사용 가능한 임시 요청 방법입니다.
 
 ### 선행 조건

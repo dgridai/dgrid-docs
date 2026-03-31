@@ -8,6 +8,8 @@ DGrid AI Gateway unifies the interfaces of hundreds of AI models. You don't need
 
 > Looking for tool-specific guides (OpenClaw / Cursor / SDK / etc.)? See [Integration Tutorials](/AI-Gateway-Integrations).
 
+> Looking for endpoint-level API reference? See [Model API](/Model-API).
+
 > The DGrid official SDK is currently under active development—stay tuned for its release. Below are the available temporary request methods to interact with DGrid AI Gateway.
 
 ### Prerequisites
