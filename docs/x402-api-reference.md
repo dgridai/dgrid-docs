@@ -86,7 +86,7 @@ Returns a single JSON response in DGrid's standard completion format with `choic
 <ApiCodePanel title="Step 1: Trigger 402" label="cURL">
 
 ```bash
-curl -i 'https://api.dgrid.ai/x402/v1' \
+curl -i 'https://api.dgrid.ai/x402/v1/responses' \
   -H 'Content-Type: application/json' \
   --data-raw '{
     "model": "anthropic/claude-opus-4.5",
