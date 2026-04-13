@@ -42,6 +42,7 @@ You can configure OpenClaw to route requests through **DGrid AI Gateway** using 
 - **Chatbox**: [Step-by-Step Guide: Configure DGrid AI Gateway in Chatbox](https://blog.dgrid.ai/posts/2026-03-09/)
 - **Claude Code**: [Use Claude Code with DGrid](https://blog.dgrid.ai/posts/2026-03-12/)
 - **Codex CLI**: [Using Codex CLI with DGrid: A Complete Guide](https://blog.dgrid.ai/posts/2026-03-23/)
+- **Junie CLI**: [Step-by-Step Guide: Integrate DGrid with Junie CLI](https://blog.dgrid.ai/posts/2026-04-13/)
 - **LibreChat**: [Using DGrid with LibreChat: A Step-by-Step Guide](https://blog.dgrid.ai/posts/2026-01-28/)
 - **LobeChat**: [Configuring and Utilizing DGrid AI Gateway in LobeChat: A Full Guide](https://blog.dgrid.ai/posts/2026-02-09/)
 - **Open WebUI**: [Using DGrid AI Gateway with Open WebUI: A Comprehensive Guide](https://blog.dgrid.ai/posts/2026-01-22_2/)
