@@ -165,7 +165,8 @@ export default defineConfig({
                 items: [
                   { text: 'API Reference', link: '/x402-api-reference' }
                 ]
-              }
+              },
+              { text: 'DClaw', link: '/DClaw' }
             ]
          },
          {
@@ -317,7 +318,8 @@ export default defineConfig({
                 items: [
                   { text: 'API Reference', link: '/zh-TW/x402-api-reference' }
                 ]
-              }
+              },
+              { text: 'DClaw', link: '/zh-TW/DClaw' }
             ]
           },
          {
@@ -469,7 +471,8 @@ export default defineConfig({
                 items: [
                   { text: 'API Reference', link: '/kr/x402-api-reference' }
                 ]
-              }
+              },
+              { text: 'DClaw', link: '/kr/DClaw' }
             ]
           },
           {
