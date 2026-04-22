@@ -148,7 +148,9 @@ export default defineConfig({
                       }
                     ]
                   },
-                  { text: 'Integration Tutorials', link: '/AI-Gateway-Integrations' }
+                  { text: 'Integration Tutorials', link: '/AI-Gateway-Integrations' },
+                  { text: 'Terms of Service', link: '/AI-Gateway-Terms-of-Service' },
+                  { text: 'Supported Countries and Regions', link: '/AI-Gateway-Supported-Countries-and-Regions' }
                 ]
               },
               {
@@ -301,7 +303,9 @@ export default defineConfig({
                       }
                     ]
                   },
-                  { text: '整合教學', link: '/zh-TW/AI-Gateway-Integrations' }
+                  { text: '整合教學', link: '/zh-TW/AI-Gateway-Integrations' },
+                  { text: '服務條款', link: '/zh-TW/AI-Gateway-Terms-of-Service' },
+                  { text: '支援的國家與地區', link: '/zh-TW/AI-Gateway-Supported-Countries-and-Regions' }
                 ]
               },
               {
@@ -454,7 +458,9 @@ export default defineConfig({
                       }
                     ]
                   },
-                  { text: '통합 튜토리얼', link: '/kr/AI-Gateway-Integrations' }
+                  { text: '통합 튜토리얼', link: '/kr/AI-Gateway-Integrations' },
+                  { text: '서비스 이용약관', link: '/kr/AI-Gateway-Terms-of-Service' },
+                  { text: '지원 국가 및 지역', link: '/kr/AI-Gateway-Supported-Countries-and-Regions' }
                 ]
               },
               {

@@ -1,5 +1,8 @@
 # Legal Disclaimer
 
+> [!NOTE]
+> This page applies to DGrid Premium only and does not govern AI Gateway or other DGrid services.
+
 Please read all terms of this "Legal Disclaimer" carefully. This disclaimer does not constitute formal legal, financial, commercial, or tax advice. You must consult your own legal, financial, tax, or other professional advisors before participating in any related activities. The DGrid Foundation (hereinafter referred to as the "Foundation"), all contributors involved in the development of the DGrid Decentralized Artificial Intelligence Inference Network (hereinafter referred to as the "DGrid Network"), the issuer/supplier of the DGrid Premium License (hereinafter referred to as the "Issuer"), and relevant service providers shall not be liable for any direct or indirect losses you may suffer from accessing the DGrid Premium License-related documents (hereinafter referred to as the "DGrid Premium Documents"), other relevant websites, or public information published by the Foundation or its authorized representatives from time to time on the designated website (URL: https://premium.dgrid.ai/dgridpass, including its subdomains).
 
 ## Eligibility and Restrictions
