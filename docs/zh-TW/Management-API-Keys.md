@@ -369,7 +369,7 @@ curl -X DELETE "https://api.dgrid.ai/api/v1/model-router/keys/e8f9c547-4f0c-4d8b
 
 - 目前為軟刪除，而非實體刪除
 
-## 9. 端到端範例
+## 9. 使用範例
 
 ### 9.1 Python
 

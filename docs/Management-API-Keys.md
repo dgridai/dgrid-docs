@@ -369,7 +369,7 @@ Implementation note:
 
 - Deletion is currently a soft delete rather than a physical delete
 
-## 9. End-to-End Examples
+## 9. Example Usage
 
 ### 9.1 Python
 
