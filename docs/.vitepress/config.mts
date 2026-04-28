@@ -168,7 +168,8 @@ export default defineConfig({
                   { text: 'API Reference', link: '/x402-api-reference' }
                 ]
               },
-              { text: 'DClaw', link: '/DClaw' }
+              { text: 'DClaw', link: '/DClaw' },
+              { text: 'Management API Keys', link: '/Management-API-Keys' }
             ]
          },
          {
@@ -323,7 +324,8 @@ export default defineConfig({
                   { text: 'API Reference', link: '/zh-TW/x402-api-reference' }
                 ]
               },
-              { text: 'DClaw', link: '/zh-TW/DClaw' }
+              { text: 'DClaw', link: '/zh-TW/DClaw' },
+              { text: 'Management API Keys', link: '/zh-TW/Management-API-Keys' }
             ]
           },
          {
@@ -478,7 +480,8 @@ export default defineConfig({
                   { text: 'API Reference', link: '/kr/x402-api-reference' }
                 ]
               },
-              { text: 'DClaw', link: '/kr/DClaw' }
+              { text: 'DClaw', link: '/kr/DClaw' },
+              { text: 'Management API Keys', link: '/kr/Management-API-Keys' }
             ]
           },
           {
