@@ -145,6 +145,13 @@ export default defineConfig({
                           { text: 'Session Tokens', link: '/Model-API-Realtime#session-tokens' },
                           { text: 'WebSocket Events', link: '/Model-API-Realtime#websocket-events' }
                         ]
+                      },
+                      {
+                        text: 'Models',
+                        link: '/Model-API-Models',
+                        items: [
+                          { text: 'List Models', link: '/Model-API-Models#list-models' }
+                        ]
                       }
                     ]
                   },
@@ -300,6 +307,13 @@ export default defineConfig({
                           { text: 'Realtime Session Token', link: '/zh-TW/Model-API-Realtime#session-tokens' },
                           { text: 'WebSocket 事件', link: '/zh-TW/Model-API-Realtime#websocket-events' }
                         ]
+                      },
+                      {
+                        text: '模型列表',
+                        link: '/zh-TW/Model-API-Models',
+                        items: [
+                          { text: '取得模型列表', link: '/zh-TW/Model-API-Models#list-models' }
+                        ]
                       }
                     ]
                   },
@@ -454,6 +468,13 @@ export default defineConfig({
                           { text: 'WebSocket 연결', link: '/kr/Model-API-Realtime#websocket-connection' },
                           { text: 'Session Tokens', link: '/kr/Model-API-Realtime#session-tokens' },
                           { text: 'WebSocket 이벤트', link: '/kr/Model-API-Realtime#websocket-events' }
+                        ]
+                      },
+                      {
+                        text: '모델 목록',
+                        link: '/kr/Model-API-Models',
+                        items: [
+                          { text: '모델 목록 조회', link: '/kr/Model-API-Models#list-models' }
                         ]
                       }
                     ]

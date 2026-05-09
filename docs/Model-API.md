@@ -41,6 +41,10 @@ The DGrid Model API consolidates DGrid's model-facing endpoints into a single re
     <strong>Realtime</strong>
     <span>OpenAI-compatible websocket sessions for low-latency text and audio conversations.</span>
   </a>
+  <a class="api-link-card" href="/Model-API-Models">
+    <strong>Models</strong>
+    <span>List all models available to the current API key, including supported endpoint types.</span>
+  </a>
 </div>
 
 ## Quickstart
@@ -103,6 +107,7 @@ Use this format for `generateContent` and `embedContent` requests.
 | Images | `/v1/images/*`, `/v1/chat/completions`, `/v1/models/*:generateContent` | Image generation and editing across multiple model formats |
 | Moderations | `/v1/moderations` | Content safety filtering and policy checks |
 | Realtime | `/v1/realtime`, `/v1/realtime/sessions` | Low-latency streaming conversations over websocket |
+| Models | `/v1/models` | Discover available models and their supported endpoint types |
 
 ## Best Practices
 
