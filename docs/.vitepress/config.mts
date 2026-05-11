@@ -147,10 +147,10 @@ export default defineConfig({
                         ]
                       },
                       {
-                        text: 'Models',
+                        text: 'List Models',
                         link: '/Model-API-Models',
                         items: [
-                          { text: 'List Models', link: '/Model-API-Models#list-models' }
+                          { text: 'Native OpenAI/Claude Format', link: '/Model-API-Models#list-models' }
                         ]
                       }
                     ]
@@ -313,7 +313,7 @@ export default defineConfig({
                         text: '模型列表',
                         link: '/zh-TW/Model-API-Models',
                         items: [
-                          { text: '取得模型列表', link: '/zh-TW/Model-API-Models#list-models' }
+                          { text: '原生 OpenAI/Claude 格式', link: '/zh-TW/Model-API-Models#list-models' }
                         ]
                       }
                     ]
@@ -476,7 +476,7 @@ export default defineConfig({
                         text: '모델 목록',
                         link: '/kr/Model-API-Models',
                         items: [
-                          { text: '모델 목록 조회', link: '/kr/Model-API-Models#list-models' }
+                          { text: '네이티브 OpenAI/Claude 형식', link: '/kr/Model-API-Models#list-models' }
                         ]
                       }
                     ]
