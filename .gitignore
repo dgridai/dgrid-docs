@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 .hostingConfig.json
+
+# Claude Code & AI tool internals (never commit)
+.claude/
+.superpowers/
