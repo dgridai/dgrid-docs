@@ -533,7 +533,7 @@ export default defineConfig({
       provider: 'local'
     },
     footer: {
-      copyright: 'Open, Low-Cost, Community-Powered | Join the <a href="https://t.me/dgrid_ai" target="_blank" rel="noopener noreferrer">Community</a> for AI Innovation'
+      copyright: 'Open, Low-Cost, Community-Powered | Join the <a href="https://telegram.me/dgrid_ai" target="_blank" rel="noopener noreferrer">Community</a> for AI Innovation'
     },
     socialLinks: [
       { icon: 'twitter', link: 'https://x.com/dgrid_ai' }
