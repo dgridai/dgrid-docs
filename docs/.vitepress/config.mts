@@ -31,13 +31,6 @@ export default defineConfig({
   title: "DGrid AI Docs",
   description: "Documentation for DGrid AI: The Decentralized Smart Network of AI",
   cleanUrls: true,
-  // Keep the token distribution drafts out of the generated site while their
-  // parameters are being revised. The source files remain available to edit.
-  srcExclude: [
-    'Token-Distribution.md',
-    'zh-TW/Token-Distribution.md',
-    'kr/Token-Distribution.md'
-  ],
   head: [
     ['link', { rel: 'icon', href: '/DGrid.png', type: 'image/png' }],
   ],
@@ -74,7 +67,8 @@ export default defineConfig({
             items: [
               { text: 'What is $DGAI?', link: '/What-is-$DGAI' },
               { text: 'Core Functions', link: '/Core-Functions' },
-              { text: 'Circulation Mechanism', link: '/Circulation-Mechanism' }
+              { text: 'Circulation Mechanism', link: '/Circulation-Mechanism' },
+              { text: 'Token Distribution', link: '/Token-Distribution' }
             ]
           },
           {
@@ -236,7 +230,8 @@ export default defineConfig({
             items: [
               { text: '什麼是 $DGAI?', link: '/zh-TW/What-is-$DGAI' },
               { text: '核心功能', link: '/zh-TW/Core-Functions' },
-              { text: '流通機制', link: '/zh-TW/Circulation-Mechanism' }
+              { text: '流通機制', link: '/zh-TW/Circulation-Mechanism' },
+              { text: '代幣分配', link: '/zh-TW/Token-Distribution' }
             ]
           },
           {
@@ -398,7 +393,8 @@ export default defineConfig({
             items: [
               { text: '$DGAI 란 무엇인가?', link: '/kr/What-is-$DGAI' },
               { text: '핵심 기능', link: '/kr/Core-Functions' },
-              { text: '순환 메커니즘', link: '/kr/Circulation-Mechanism' }
+              { text: '순환 메커니즘', link: '/kr/Circulation-Mechanism' },
+              { text: '토큰 분배', link: '/kr/Token-Distribution' }
             ]
           },
           {
